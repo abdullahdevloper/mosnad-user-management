@@ -1,4 +1,4 @@
-etup instructions :
+setup instructions :
 1- move project to hosting folder
 2-import database you can find it in root folder of project with name (mosnad-user-management-db)
 or you can use laravel instructions (migration and seed ) for migrate and insert fake data to empty data base
