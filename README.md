@@ -5,3 +5,7 @@ or you can use laravel instructions (migration and seed ) for migrate and insert
 3-launch project in browser with main URL localhost/rootproject/public/login and login with default credentials admin@admin.com - password 
 
 4- link of project in github =>  https://github.com/abdullahdevloper/mosnad-user-management
+
+author abdullah saad ali alradaee
+777151565
+abdullahdevlopment@gmail.com
