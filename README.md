@@ -4,4 +4,4 @@ etup instructions :
 or you can use laravel instructions (migration and seed ) for migrate and insert fake data to empty data base
 3-launch project in browser with main URL localhost/rootproject/public/login and login with default credentials admin@admin.com - password 
 
-4- link of project in github => 
+4- link of project in github =>  https://github.com/abdullahdevloper/mosnad-user-management
